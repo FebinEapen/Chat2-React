@@ -1,0 +1,79 @@
+
+
+hooks
+apis 
+axios
+useEffect
+create a state
+convert to arrow function 
+map, filter, reduce 
+
+
+WCHAT - SONNY & Co. 
+Firebase
+
+18:00
+21:40 - config 
+25:00 > src > firebase.js 
+45:00 App.css 
+46:00 Sidebar.css, Chat.css
+52:10 MATERIAL UI 
+
+      NEW
+      npm install @mui/icons-material @mui/material @emotion/styled @emotion/react
+
+1:01  sidebar.css
+      Responsiveness  
+
+1:19  Chat header in Chat.js 
+1:30  Chat body in Chat.js  
+1:40  Chat footer
+1:52  Backend 
+      Backend_Folder 
+      cd Backend_Folder 
+      git init 
+      npm init >>>>ENTRYPOINT: server.js 
+      server.js 
+      npm i express mongoose 
+      npm i -g nodemon
+      server.js
+2:04  MONGO DB - signup > collections > new project > name MERN CHAT > create free cluster 
+                 un & password & appName
+                 febinnn
+                 eyT6sfebFDrZP3z8
+                 Cluster0
+      In package.json, add
+       "main": "server.js",
+       "type": "module",
+      
+      server.js file outline 
+        - imports
+        - app config
+        - middleware
+        - DB Config 
+        - ???
+        - api routes 
+        - listen    
+2:22  POSTMAN 
+2:26  api test - postman 
+2:26:40 Mongo DB 
+          set up ip address
+          database
+          cluster
+          connect (to cluster)
+          connect application 
+
+          mongodb+srv://febinnn:<password>@cluster0.kjoz3qn.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+2:33:30 DSA/Schema for db 
+        dbMessages.js 
+
+2:40    Postman again 
+2:47    Postman 
+2:50    Pusher.com 
+2:54:40 Explanation
+2:58:20 npm i pusher 
+3:00:30 DB Connected 
+
+
+
